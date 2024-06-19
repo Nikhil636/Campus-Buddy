@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211575704292",
+    "project_id": "campus-buddy-5deb5",
+    "storage_bucket": "campus-buddy-5deb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211575704292:android:548a7a08435b9a39563af1",
+        "android_client_info": {
+          "package_name": "com.example.campus_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqDw6JHGdWVqqN9_LIhpPdD2IDwhJhNJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
